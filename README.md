@@ -21,7 +21,7 @@ You can easily review each section. click on the desired page section and, read 
 ## Picture of site
 https://github.com/dijahmohammed/Bootstrap-Portfolio/blob/main/Screenshot%202023-12-19%20215200.png
 ## Deployed site
-
+https://dijahmohammed.github.io/Bootstrap-Portfolio/
 ## License
 MIT License
 
