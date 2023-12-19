@@ -18,9 +18,9 @@ You can easily review each section. click on the desired page section and, read 
   </li>
 </ul>
 
-##Picture of site
+## Picture of site
 https://github.com/dijahmohammed/Bootstrap-Portfolio/blob/main/Screenshot%202023-12-19%20215200.png
-##Deployed site
+## Deployed site
 
 ## License
 MIT License
